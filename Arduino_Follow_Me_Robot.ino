@@ -4,6 +4,7 @@
 // To install the libraries ( first download the AF Motor driver, NewPing and Servo Library zip file //
 // then Go to Skecth >> Include Library >> Add .Zip Library >> Select The downloaded zip file >> Done) //
 // Contact me on instagram for any question(Insta Id : DIY.Builder)
+// aya komentar anya didieu
 
 #include <NewPing.h>
 #include <Servo.h>
